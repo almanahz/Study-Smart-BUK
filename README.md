@@ -20,6 +20,26 @@ This app also serves as a campaign to support my friend, Abuzaid Salisu Hikima (
 - **Resource Section**: Browse and download study materials and resources.
 - **Articles**: Read informative articles about Bayero University.
 
+## How to Install on Android
+
+### Prerequisites
+
+- Ensure you have an Android device.
+
+### Installation Steps
+
+1. **Download the APK**: 
+   - Download the APK file from the [release page](https://github.com/yourusername/study-smart-buk/releases) (replace with your actual GitHub repository link).
+
+2. **Enable Unknown Sources**: 
+   - Go to your device's **Settings** > **Security** and enable **Unknown Sources** to allow installation from sources other than the Google Play Store.
+
+3. **Install the APK**: 
+   - Locate the downloaded APK file in your device's **Downloads** folder and tap on it to start the installation.
+
+4. **Open the App**: 
+   - Once installed, you can find the "Study Smart BUK" app in your app drawer and open it to start using.
+
 ## How to Use
 
 1. Select your preferred quiz format.
