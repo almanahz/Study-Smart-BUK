@@ -6,8 +6,6 @@
 
 Study Smart BUK is a mobile application designed specifically for Bayero University Kano students. Created by Abdulqudus Abdulsalam, a medical student at BUK and a graduate of ALX software engineering, this app aims to enhance your learning experience by providing a comprehensive platform for testing knowledge on GSP and EEP courses.
 
-## Purpose
-
 This app also serves as a campaign to support my friend, Abuzaid Salisu Hikima (WISDOM OF POLITICS), for SUG 2025. He played a vital role in gathering the questions used throughout the app. Together, we aim to create a valuable resource for students at Bayero University.
 
 ## Features
