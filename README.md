@@ -22,12 +22,11 @@ This app also serves as a campaign to support my friend, Abuzaid Salisu Hikima (
 
 ### Prerequisites
 
-- Ensure you have an Android device.
-
+- Ensure you have an Android device
 ### Installation Steps
 
 1. **Download the APK**: 
-   - Download the APK file from the [release page](https://github.com/yourusername/study-smart-buk/releases) (replace with your actual GitHub repository link).
+   - Download the APK file from the [release page]
 
 2. **Enable Unknown Sources**: 
    - Go to your device's **Settings** > **Security** and enable **Unknown Sources** to allow installation from sources other than the Google Play Store.
