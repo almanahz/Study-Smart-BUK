@@ -29,10 +29,10 @@ This app also serves as a campaign to support my friend, Abuzaid Salisu Hikima (
    - Download the APK file from the [release page](https://github.com/almanahz/Study-Smart-BUK/releases/download/v1.0.0/Study-Smart-BUK.apk)
 
 2. **Enable Unknown Sources**: 
-   - Go to your device's **Settings** > **Security** and enable **Unknown Sources** to allow installation from sources other than the Google Play Store.
+   - Go to your device's **Settings** > **Security** and enable **Unknown Sources** to allow installation from sources.
 
 3. **Install the APK**: 
-   - Locate the downloaded APK file in your device's **Downloads** folder and tap on it to start the installation.
+   - Locate the downloaded APK file in your device's **Downloads** folder and click on it to begin the installation.
 
 4. **Open the App**: 
    - Once installed, you can find the "Study Smart BUK" app in your app drawer and open it to start using.
