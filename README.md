@@ -6,7 +6,7 @@
 
 Study Smart BUK is a mobile application designed specifically for Bayero University Kano students. Created by Abdulqudus Abdulsalam, a medical student at BUK and a graduate of ALX software engineering, this app aims to enhance your learning experience by providing a comprehensive platform for testing knowledge on GSP and EEP courses.
 
-This app also serves as a campaign to support my friend, Abuzaid Salisu Hikima (WISDOM OF POLITICS), for SUG 2025. He played a vital role in gathering the questions used throughout the app. Together, we aim to create a valuable resource for students at Bayero University.
+This app also serves as to support my friend, Abuzaid Salisu Hikima (WISDOM OF POLITICS), for SUG 2025. He played a vital role in gathering the questions used throughout the app. Together, we aim to create a valuable resource for students at Bayero University.
 
 ## Features
 
@@ -20,22 +20,19 @@ This app also serves as a campaign to support my friend, Abuzaid Salisu Hikima (
 
 ## How to Install on Android
 
-### Prerequisites
-
-- Ensure you have an Android device
 ### Installation Steps
 
 1. **Download the APK**: 
    - Download the APK file from the [release page](https://github.com/almanahz/Study-Smart-BUK/releases/download/v1.0.0/Study-Smart-BUK.apk)
 
 2. **Enable Unknown Sources**: 
-   - Go to your device's **Settings** > **Security** and enable **Unknown Sources** to allow installation from sources.
+   - Go to your device's **Settings** > **Security** and enable **Unknown Sources** to allow installation from your preferred sources.
 
 3. **Install the APK**: 
    - Locate the downloaded APK file in your device's **Downloads** folder and click on it to begin the installation.
 
 4. **Open the App**: 
-   - Once installed, you can find the "Study Smart BUK" app in your app drawer and open it to start using.
+   - Once installed, you can find the "Study Smart BUK" app in your app drawer and then open it to start using.
 
 ## How to Use
 
