@@ -1,6 +1,7 @@
 # About Study Smart BUK
 
 ![App Icon](./assets/buklogo.png)
+##Download the latest version [Click here](https://github.com/almanahz/Study-Smart-BUK/releases/download/v1.0.0_2/Study.Smart.BUK.apk)
 
 ## Overview
 
