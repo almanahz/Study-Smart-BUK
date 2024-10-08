@@ -23,7 +23,7 @@ This app also serves as support for my friend, Abuzaid Salisu Hikima (WISDOM OF 
 ### Installation Steps
 
 1. **Download the APK**: 
-   - Download the APK file from the [release page](https://github.com/almanahz/Study-Smart-BUK/releases/download/v1.0.0_2/Study-Smart-BUK.apk
+   - Download the APK file from the [release page](https://github.com/almanahz/Study-Smart-BUK/releases/download/v1.0.0_2/Study-Smart-BUK.apk)
 
 2. **Enable Unknown Sources**: 
    - Go to your device's **Settings** > **Security** and enable **Unknown Sources** to allow installation from your preferred sources.
