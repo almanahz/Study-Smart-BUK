@@ -1,6 +1,4 @@
 # About Study Smart BUK
-![Screenshot_20250130-110606~3](https://github.com/user-attachments/assets/c3a94093-3d0a-4464-bd88-0ac24d5c51ee)
-
 ![images (12)](https://github.com/user-attachments/assets/76aae324-9025-4f8b-b095-a20034863233)
 
 ## Download the latest version [Click here](https://github.com/almanahz/Study-Smart-BUK/releases/download/v1.0.0_2/Study.Smart.BUK.apk)
